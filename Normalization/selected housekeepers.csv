@@ -1,0 +1,21 @@
+"Gene Name","Gene","Order selected by geNorm","SD after normalization"
+"Eef1g-mRNA","NM_026007.4:338","1",0.128
+"Sf3a3-mRNA","NM_029157.3:40","2",0.111
+"Rpl19-mRNA","NM_009078.2:92","3",0.25
+"Oaz1-mRNA","NM_008753.4:809","4",0.216
+"Hdac3-mRNA","NM_010411.2:144","5",0.197
+"Nubp1-mRNA","NM_011955.2:284","6",0.225
+"Sdha-mRNA","NM_023281.1:250","7",0.208
+"Ppia-mRNA","NM_008907.1:390","8",0.214
+"Polr2a-mRNA","NM_009089.2:2220","9",0.238
+"Tbp-mRNA","NM_013684.3:70","10",0.275
+"Abcf1-mRNA","NM_013854.1:875","11",0.251
+"Eif2b4-mRNA","NM_001127355.1:1562","12",0.233
+"Alas1-mRNA","NM_020559.2:1034","13",0.268
+"Sap130-mRNA","NM_172965.2:2182","14",0.262
+"G6pdx-mRNA","NM_008062.2:2030","15",0.294
+"Tubb5-mRNA","NM_011655.4:2260","16",0.321
+"Hprt-mRNA","NM_013556.2:428","discarded",0.37
+"Polr1b-mRNA","NM_009086.2:2795","discarded",0.887
+"Edc3-mRNA","NM_153799.3:2570","discarded",0.386
+"Gusb-mRNA","NM_010368.1:1735","discarded",0.629
